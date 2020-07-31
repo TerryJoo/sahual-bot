@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">사활BOT</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="mode">
+
+        <item>--선택--</item>
+        <item>흑선백사</item>
+        <item>흑선활</item>
+        <item>백선흑사</item>
+        <item>백선활</item>
+        <item>흑선으로 검토</item>
+        <item>백선으로 검토</item>
+    </string-array>
+    <string name="title_activity_confirm">ConfirmActivity</string>
+
+</resources>
